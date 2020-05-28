@@ -1,0 +1,18 @@
+{
+  "colorList": [
+    "ffffffff",
+    "ff000000",
+    "ff888888",
+    "ff0000ff",
+    "ffff0000"
+  ],
+
+  "colorName": [
+    "white",
+    "black",
+    "grey",
+    "blue",
+    "red"
+  ]
+
+}
